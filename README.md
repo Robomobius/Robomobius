@@ -1,5 +1,4 @@
 ## Hi there 👋
-# I'm Robomobius
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning about web dev (and github).
 - 👯 I’m looking to collaborate on anything really.
